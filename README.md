@@ -39,6 +39,6 @@ If you have termcolor.py preinstalled, you will get :
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code is used :cowboy_hat_face:
+  - Hat tip to anyone who has used this code :cowboy_hat_face:
   - If it helps you out, leave a start. :star:
   - That inspires me a Lot.   
