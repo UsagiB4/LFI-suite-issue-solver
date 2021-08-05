@@ -14,6 +14,7 @@ Now type the commands below
 Step 1 :
 
     cd Downloads/LFI-suite-issue-solver
+It's not always Downloads/LFI-suite-issue-solver. You have to choose the directory where you have put the commandfile.sh
 
 Step 2 :
 
